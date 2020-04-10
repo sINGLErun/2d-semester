@@ -1,0 +1,4 @@
+	determinant of your matrix is: -50468.000
+	such matrices cannot be folded!
+	these matrices cannot be multiplied!
+	matrix has no inverse!
